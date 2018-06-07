@@ -1,5 +1,5 @@
 # Inherit mini common Bootleg stuff
-$(call inherit-product, vendor/bootleggers/config/common_mini.mk)
+$(call inherit-product, vendor/nitrogen/config/common_mini.mk)
 
 # Required packages
 PRODUCT_PACKAGES += \
