@@ -1,4 +1,4 @@
-# Inherit mini common bootleg stuff
-$(call inherit-product, vendor/bootleggers/config/common.mk)
+# Inherit mini common toxyc stuff
+$(call inherit-product, vendor/toxyc/config/common.mk)
 
 PRODUCT_SIZE := mini
